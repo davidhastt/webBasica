@@ -1,5 +1,5 @@
  
-    
+    //Este script muestra los ultimos sismos en los ultimos 30 dias, en todo el mundo
     // Inicializar el mapa
     var map = L.map('map').setView([19.28676640168722, -99.67715832406732], 4); // Cambia las coordenadas y el nivel de zoom según tu ubicación deseada
 
